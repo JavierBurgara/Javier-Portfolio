@@ -1,0 +1,8 @@
+.bio-header {
+    text-align: center;
+}
+
+.main-header {
+    flex: 2;
+    border: 1px solid rgb(205, 21, 21)
+}
